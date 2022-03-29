@@ -1,0 +1,8 @@
+main,aside,article,footer,header{
+    border: 2pt solid red;
+
+}
+
+.img {
+    cursor: -webkit-grab; cursor: grab;
+}
